@@ -1,5 +1,5 @@
 # Notes-app
-Portfolio project made by me during "Hacking With Swift" iOS App development course.
+Portfolio project made by me during "Hacking With Swift" iOS App development course.<\br>
 Course: https://www.hackingwithswift.com
 Mentor: Paul Hudson
 
